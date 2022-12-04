@@ -1,0 +1,7 @@
+tensorflow
+torch
+onnx
+onnxruntime
+# onnx-tensorflow
+# tensorflow_addons
+onnx-tf
